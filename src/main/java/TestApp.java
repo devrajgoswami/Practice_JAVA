@@ -1,0 +1,13 @@
+public class TestApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!!");
+    }
+
+    public int add(int a, int b) {
+        return a + b;
+    }
+
+    public String greet(String name) {
+        return "Hello, " + name;
+    }
+}
